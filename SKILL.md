@@ -5,6 +5,8 @@ description: Maintain a traceable, three-layer model of the person you work with
 
 # Evidence-Backed Persona
 
+> **两种用法**：本文描述的是**团队 / 多 Agent 版**（三层、要互相复核）。若只有你一个人和一个长期协作对象，先看 [`LIGHTWEIGHT.md`](LIGHTWEIGHT.md)——那份只保留"原话行 + 两个日期"的门槛，维护成本低一个数量级。
+
 一套跨会话、跨工作区的"用户侧写"机制。核心一句话：**先攒证据，再下结论，结论必须能溯源。**
 
 ## 三个层次，别混
